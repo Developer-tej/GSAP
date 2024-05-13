@@ -14,3 +14,6 @@ tl.from("h4",{
     stagger:0.2
 })
 
+tl.to("h1",{
+    scale:1.5
+})
